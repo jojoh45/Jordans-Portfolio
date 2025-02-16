@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.footer-content {
+    font-family: "NTR", sans-serif;
+    color: var(--slate);
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
