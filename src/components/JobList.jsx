@@ -62,20 +62,10 @@ const JobList = () => {
     const experienceItems = {
         SRI: {
             title: 'Modeling & Simulation Engineer @',
-            company: 'SRI',
+            company: 'SRI International',
             location: 'Aberdeen Proving Ground, MD',
             duration: 'October 2024 - Present',
-            desc: ['I am currently a Modeling & Simulation Engineer at SRI as a government contractor for the Army.', 'I work on a team that develops simulations for the Army to train soldiers on how to use new equipment.'],
-            },
-        Amazon: {
-            title: "Software Development Engineer @",
-            company: 'Amazon',
-            location: 'New York, NY',
-            duration: "JUL 2022 - PRESENT",
-            desc: [
-                "Led development of end-to-end region build automation across Route 53 (AWS's DNS web service).  This enabled the launch of customer-facing global services in new regions within a day, a significant reduction from the previous time-frame of a month.",
-                "Re-built Route 53's core domain management and DNS systems to provide a better user experience to millions of customers."
-            ]
+            desc: ['Designed, executed, and documented comprehensive test plans to validate radar threat models', 'Analyzed and interpreted Electronic Warfare Integrated Reprogramming (EWIR) data and other RF parametric information to ensure threat simulations', 'Assisted in software design, development, and quality assurance for radar threat simulation applications'],
             },
         }
 
