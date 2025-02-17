@@ -14,7 +14,7 @@ function About() {
                 <div className="about-content">
                     <div className="about-description">
                         <p>
-                            I amx currently a <b>Modeling & Simulation Engineer at</b> <a href='https://www.sri.com/'> SRI </a> as a government contractor for the <b>Army</b>. I graduated from <b>Morgan State University</b> with a degree in <b>Computer Science</b>. I am passionate about coding and I am always looking for new ways to improve my skills. I am always looking for new opportunities to learn and grow as a developer. I am excited to see where my coding journey takes me and I am looking forward to the future.
+                            I am currently a <b>Modeling & Simulation Engineer at</b> <a href='https://www.sri.com/'> SRI </a> as a government contractor for the <b>Army</b>. I graduated from <b>Morgan State University</b> with a degree in <b>Computer Science</b>. I am passionate about coding and I am always looking for new ways to improve my skills. I am always looking for new opportunities to learn and grow as a developer. I am excited to see where my coding journey takes me and I am looking forward to the future.
                         </p>
                         <ul className="tech-stack">
                             {tech_stack.map((tech, index) => (

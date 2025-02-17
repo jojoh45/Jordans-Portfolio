@@ -19,7 +19,7 @@ function Home() {
           </div>
           <div>
             <div className='intro-desc'>
-              My name is Jordan Johnson and I am a full-stack developer. I am a recent graduate from Morgan State University with a degree in Information Science and Systems. I am passionate about coding and I am always looking for new ways to improve my skills. I am always looking for new opportunities to learn and grow as a developer. I am excited to see where my coding journey takes me and I am looking forward to the future.
+              I'm a Modeling & Simulations Engineer. I love to learn new skills and real world, large-scale projects peaks my interest and my dream is to develop one someday
             </div>
           </div>
         </FadeUp>
