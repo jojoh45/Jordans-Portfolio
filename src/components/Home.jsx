@@ -19,7 +19,7 @@ function Home() {
           </div>
           <div>
             <div className='intro-desc'>
-              I'm a Modeling & Simulations Engineer. I love to learn new skills and real world, large-scale projects peaks my interest and my dream is to develop one someday
+              I'm a Modeling & Simulations Engineer. I love to learn new skills, large-scale projects peaks my interest and my dream is to develop one someday
             </div>
           </div>
         </FadeUp>
