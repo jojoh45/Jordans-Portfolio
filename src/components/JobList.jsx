@@ -65,7 +65,7 @@ const JobList = () => {
             company: 'SRI International',
             location: 'Aberdeen Proving Ground, MD',
             duration: 'October 2024 - Present',
-            desc: ['Designed, executed, and documented comprehensive test plans to validate radar threat models', 'Analyzed and interpreted Electronic Warfare Integrated Reprogramming (EWIR) data and other RF parametric information to ensure threat simulations', 'Assisted in software design, development, and quality assurance for radar threat simulation applications'],
+            desc: ['Designed, executed, and documented comprehensive test plans to validate radar threat models', 'Assisted in software design, development, and quality assurance for radar simulation applications', 'Designed and implemented radar signal simulations for Aircraft Survivability Equipment (ASE) software testing'],
             },
         }
 
